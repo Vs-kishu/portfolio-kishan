@@ -7,5 +7,6 @@ export const headerData = {
     "https://scontent.flko7-2.fna.fbcdn.net/v/t39.30808-6/273687522_1273914289762084_3736985728793535586_n.jpg?stp=dst-jpg_p843x403&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=74-ZjYkiFgcAX_06LNa&_nc_ht=scontent.flko7-2.fna&oh=00_AfD2pGC1KqjkBHXHPkkRMkCCQaVu0o0xMLiJ5ciLGEONaw&oe=63978C8E",
   imagebw:
     "https://scontent.flko7-2.fna.fbcdn.net/v/t39.30808-6/273687522_1273914289762084_3736985728793535586_n.jpg?stp=dst-jpg_p843x403&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=74-ZjYkiFgcAX_06LNa&_nc_ht=scontent.flko7-2.fna&oh=00_AfD2pGC1KqjkBHXHPkkRMkCCQaVu0o0xMLiJ5ciLGEONaw&oe=63978C8E",
-  resumePdf: "",
+  resumePdf:
+    "https://docs.google.com/document/d/1q7NlwESV9LbCxpb7LF6Bg8R5fo__-7i2V4mLUdxpRJY/edit?usp=sharing",
 };
